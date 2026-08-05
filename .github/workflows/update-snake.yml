@@ -5,6 +5,9 @@ on:
     - cron: '0 2 * * *' # daily at 02:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,12 +18,12 @@ jobs:
       - name: Generate contribution snake
         uses: platane/snk@v1
         with:
-          # Output file inside the repo (will be committed)
-          IMAGE_NAME: snake.gif
-          # Choose a preset color or hex color (example: '#7c3aed')
-          COLOR: '#7c3aed'
-          # Size multiplier for the generated image (1 is default)
-          MULTIPLIER: '1'
+          # GitHub username to fetch contributions for
+          github_user_name: Krrish-GHub
+          # Output GIF path inside the repo (will be committed)
+          gif_out_path: snake.gif
+          # Optional: output SVG path (not required)
+          svg_out_path: snake.svg
 
       - name: Commit generated image
         run: |
