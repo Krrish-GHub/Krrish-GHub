@@ -4,12 +4,14 @@
 	Replace placeholder fields below with the exact text you want.
 -->
 
+![ASCII profile GIF](https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.gif)
+
 <table width="100%"><tr>
 	<td width="60%" valign="top">
 		<!-- Left column: ASCII animation / video -->
 		<div align="center">
 			<picture>
-				<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" style="max-width:100%; border-radius:8px; border:1px solid rgba(255,255,255,0.06);" />
+				<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" style="max-width:100%; border-radius:8px; border:1px solid rgba(255,255,255,0.06);" />
 			</picture>
 		</div>
 	</td>
@@ -41,15 +43,14 @@ Projects:               Jarvis, H.U.M.A.N.S., CHaOS, SSKY
 			</div>
 
 			<div style="margin-top:12px; display:flex; gap:8px; flex-wrap:wrap;">
-				<span style="background:#071017; padding:6px 10px; border-radius:999px; color:#9aa4b2;">Neon Snake: #7c3aed</span>
 				<span style="background:#071017; padding:6px 10px; border-radius:999px; color:#9aa4b2;">Profile GIF</span>
 			</div>
 
-			<div style="margin-top:14px; color:#9aa4b2; font-size:13px">Contact: krrishsharma321@gmail.com · github.com/Krrish-Ghub · linkedin.com/in/krrish-sharma-7669b332a</div>
+			<div style="margin-top:14px; color:#9aa4b2; font-size:13px">Contact: krrishsharma321@gmail.com · github.com/Krrish-GHub · linkedin.com/in/krrish-sharma-7669b332a</div>
 			<div style="margin-top:12px"> 
 				<!-- GitHub Readme stats auto-updating -->
-				<img src="https://github-readme-stats.vercel.app/api?username=Krrish-Ghub&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Krrish's GitHub stats" />
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish-Ghub&layout=compact&theme=dark" alt="Top languages" />
+				<img src="https://github-readme-stats.vercel.app/api?username=Krrish-GHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Krrish's GitHub stats" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish-GHub&layout=compact&theme=dark" alt="Top languages" />
 			</div>
 		</div>
 	</td>
@@ -63,17 +64,11 @@ Video (WebM with GIF fallback):
 
 ```html
 <video autoplay loop muted playsinline width="800">
-	<source src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.webm" type="video/webm">
-	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" />
+	<source src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.webm" type="video/webm">
+	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" />
 </video>
 ```
 
-Snake embed (once `snake.gif` exists):
-
-```html
-<p align="center">
-	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/snake.gif" alt="GitHub contributions snake" />
-</p>
-```
+<!-- Snake removed: contribution-snake GIF intentionally omitted from this profile -->
 
 <!-- Layout updated: placeholders filled. Ask me to tweak colors, widths, or arrangement. -->
