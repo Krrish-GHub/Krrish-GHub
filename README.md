@@ -8,10 +8,9 @@
 	<td width="60%" valign="top">
 		<!-- Left column: ASCII animation / video -->
 		<div align="center">
-			<video autoplay loop muted playsinline width="720" style="border-radius:8px; border:1px solid rgba(255,255,255,0.06);">
-				<source src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.webm" type="video/webm">
-				<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" style="max-width:100%; border-radius:8px;"/>
-			</video>
+			<picture>
+				<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" style="max-width:100%; border-radius:8px; border:1px solid rgba(255,255,255,0.06);" />
+			</picture>
 		</div>
 	</td>
 	<td width="40%" valign="top">
@@ -64,8 +63,8 @@ Video (WebM with GIF fallback):
 
 ```html
 <video autoplay loop muted playsinline width="800">
-	<source src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.webm" type="video/webm">
-	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" />
+	<source src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.webm" type="video/webm">
+	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/github-profile-ascii-full-smooth.gif" alt="Animated ASCII art" />
 </video>
 ```
 
@@ -73,6 +72,8 @@ Snake embed (once `snake.gif` exists):
 
 ```html
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/snake.gif" alt="GitHub contributions snake" />
+	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-Ghub/main/snake.gif" alt="GitHub contributions snake" />
 </p>
 ```
+
+<!-- Layout updated: placeholders filled. Ask me to tweak colors, widths, or arrangement. -->
