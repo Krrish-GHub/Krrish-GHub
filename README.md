@@ -76,5 +76,3 @@ Snake embed (once `snake.gif` exists):
 	<img src="https://raw.githubusercontent.com/Krrish-GHub/Krrish-GHub/main/snake.gif" alt="GitHub contributions snake" />
 </p>
 ```
-
-If you like this layout, tell me the exact text for the placeholders (name, handle, role, location, the boxed stats) and I will update the README accordingly. If you want different colors, widths, or arrangement I can adjust too.
