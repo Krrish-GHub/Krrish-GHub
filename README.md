@@ -3,11 +3,11 @@
 <h1 align="center">Krrish Sharma</h1>
 
 <p align="center">
-  <strong>AI Developer · CSE (AI & ML) Student · Linux Enthusiast</strong>
+  <strong>AI/ML Engineering Student · Developer · Linux Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building AI agents, experimenting with local LLMs, and developing useful software.
+  Building software, exploring machine learning, and developing practical projects.
 </p>
 
 <p align="center">
@@ -20,40 +20,49 @@
 
 ## About Me
 
-- Pursuing B.Tech in Computer Science & Engineering (AI & ML).
-- Interested in agentic AI, local LLMs, machine learning, and automation.
-- Daily-driving Fedora Linux and exploring open-source technologies.
-- Building projects across AI, web development, and developer tools.
+- B.Tech student in Computer Science & Engineering (AI & ML).
+- Interested in machine learning, AI applications, web development, and Linux.
+- Working with Fedora Linux, open-source tools, and local development workflows.
+- Exploring different areas of engineering and turning ideas into working projects.
 
-## Tech Stack
+## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flutter,firebase,git,github,linux,bash,vscode,figma&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flutter,firebase,git,github,linux,bash,vscode,figma&perline=7" alt="Technologies and tools" />
 </p>
 
-**AI & ML:** Ollama, local LLMs, AI agents, prompt engineering  
-**Development:** Python, JavaScript, C++, HTML, CSS, Flutter  
-**Tools:** Git, GitHub, Fedora Linux, VS Code, Firebase
-
-## Featured Projects
-
-| Project | Description |
+| Area | Technologies |
 |---|---|
-| [JARVIS / Local AI Agent](https://github.com/Krrish-GHub) | Exploring local AI assistants, LLMs, and natural-language automation. |
-| [Rakshita](https://github.com/Krrish-GHub) | An AI-focused project exploring helpful, human-oriented assistance. |
-| [CHaOS](https://github.com/Krrish-GHub) | Chat-based help and outreach platform concept. |
-| [SSKY Printing](https://corpse-dead.github.io/ssky/) | Printing-service website project. |
+| Programming | Python, C++, Java, JavaScript |
+| Web | HTML, CSS, JavaScript |
+| AI / ML | Machine learning, local LLMs, Ollama |
+| Tools | Git, GitHub, Fedora Linux, Bash, VS Code, Firebase |
 
-## GitHub Statistics
+## Selected Work
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krrish-GHub&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish-GHub&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
+### [SSKY Printing](https://corpse-dead.github.io/ssky/)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krrish-GHub&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
-</p>
+A website project for a printing service.
+
+### [Portfolio](https://github.com/Krrish-GHub/Portfolio)
+
+Explore my portfolio repository and development work.
+
+### [AI-powered Python Code Analyzer](https://github.com/Krrish-GHub/AI-powered-Python-code-analyzer)
+
+A Python project exploring code analysis.
+
+### [Browser Extensions](https://github.com/Krrish-GHub/Browser-Extensions)
+
+A repository for browser-extension experiments.
+
+---
+
+## Current Focus
+
+- Strengthening Python and machine-learning fundamentals.
+- Building useful, well-documented projects.
+- Exploring AI tooling and open-source development.
 
 ---
 
